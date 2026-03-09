@@ -15,8 +15,10 @@ Here, I transform theoretical concepts into practical scripts, starting from bas
 ### Level 1: Python Fundamentals & Data Types
 * **`01_employee_profile_generator.py`**: A script manipulating strings and variables to generate formatted employee profile cards and extract department codes.
 * **`02_report_card_printer.py`**: A basic terminal application utilizing boolean logic, floats, and integer calculations to evaluate and print student scores.
-* **`movie_calculator.py`**: A Python script that calculates ticket prices based on age, membership status, seat type, and show timing. 
+* **`03_movie_calculator.py`**: A Python script that calculates ticket prices based on age, membership status, seat type, and show timing. 
    - Concepts used: Variables, If-Else conditions, Logic operators.
+ * **`04_Commuting_Logic.py`**:  A script to determine if commuting is possible based on weather, distance, and transport availability.
+
 
 ### Level 2: Shell & System Interaction (Coming Soon ⏳)
 * *Goal: File manipulation, permissions, and basic bash scripting.*
