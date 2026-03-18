@@ -18,7 +18,8 @@ Here, I transform theoretical concepts into practical scripts, starting from bas
 * **`03_movie_calculator.py`**: A Python script that calculates ticket prices based on age, membership status, seat type, and show timing. 
    - Concepts used: Variables, If-Else conditions, Logic operators.
  * **`04_Commuting_Logic.py`**:  A script to determine if commuting is possible based on weather, distance, and transport availability.
-* **`05_bill_splitter.py:`**: A utility script to calculate and split a restaurant bill among friends, including tip calculations and rounding for currency accuracy.
+* **`05_bill_splitter.py`**: A utility script to calculate and split a restaurant bill among friends, including tip calculations and rounding for currency accuracy.
+* **`06_Apply_Discount_Function`**: A utility script featuring robust input validation and conditional logic to calculate the final price after applying a percentage discount while ensuring data integrity.
 
 
 ### Level 2: Shell & System Interaction (Coming Soon ⏳)
